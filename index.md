@@ -59,6 +59,10 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 ### Organising committee
 
-![https://danrsm.github.io/](https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=trues=20)
-Danro
+| <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="150" height="150" href="https://danrsm.github.io/"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="150" height="150" href="https://www.martagarnelo.com"> |<img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/peter.png?raw=true" width="150" height="150"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="150" height="150" href="https://cbmm.mit.edu/about/people/allen"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="150" height="150" href="http://cncl.yale.edu/"> |
+|:-----:|:-----:|:-----:|:------:|:-----:|
+| <a href="https://danrsm.github.io/">Dan Rosenbaum</a> <br>(DeepMind)| <a href="https://www.martagarnelo.com">Marta Garnelo</a> <br>(DeepMind)| Peter Battaglia <br>(DeepMind) | <a href="https://cbmm.mit.edu/about/people/allen"> Kelsey Allen </a> <br>(MIT) | <a href="http://cncl.yale.edu/">Ilker Yildirim </a><br>(Yale)|
+
+
+
 
