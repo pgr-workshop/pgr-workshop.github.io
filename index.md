@@ -59,4 +59,6 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 ### Organising committee
 
+![https://danrsm.github.io/](https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true)
+Danro
 
