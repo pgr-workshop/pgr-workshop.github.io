@@ -1,7 +1,7 @@
 ---
 layout: page
-title: NeurIPS 2019 workshop
-subtitle: Perception as generative reasoning - structure, causality, probability
+title: Perception as generative reasoning 
+subtitle: Structure, Causality, Probability
 ---
 
 ### Overview
