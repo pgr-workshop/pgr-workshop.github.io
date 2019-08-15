@@ -59,6 +59,15 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 ### Organising committee
 
+<div style="float: left; width: 5%">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130" href="https://danrsm.github.io/">
+  Dan Rosenbaum
+  (DeepMind)
+</div><div style="float: left; width: 20%">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130" href="https://www.martagarnelo.com">
+  Marta Garnelo
+  (DeepMind)
+</div>
 
 | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130" href="https://danrsm.github.io/"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130" href="https://www.martagarnelo.com"> |<img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/peter.png?raw=true" width="130"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130" href="https://cbmm.mit.edu/about/people/allen"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="130" href="http://cncl.yale.edu/"> |
 |:-----:|:-----:|:-----:|:------:|:-----:|
