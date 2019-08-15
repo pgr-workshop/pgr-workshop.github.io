@@ -69,25 +69,25 @@ Papers should be in the latest [NeurIPS format](https://neurips.cc/Conferences/2
 
 ### Organising committee
 
-<div style="float: left; width: 300px">
+<div style="float: left; width: 160px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130px" href="https://danrsm.github.io/">
   <a href="https://danrsm.github.io/">Dan Rosenbaum</a>
   (DeepMind)
-</div><div style="float: left; width: 300px">
+</div><div style="float: left; width: 160px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130px" href="https://www.martagarnelo.com">
   <a href="https://www.martagarnelo.com">Marta Garnelo</a>
   (DeepMind)
 </div>
-<div style="float: left; width: 300px">
+<div style="float: left; width: 16opx">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/peter.png?raw=true" width="130px">
   Peter Battaglia
   (DeepMind)
-</div><div style="float: left; width: 300px">
+</div><div style="float: left; width: 160px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130px" href="https://cbmm.mit.edu/about/people/allen">
   <a href="https://cbmm.mit.edu/about/people/allen">Kelsey Allen </a>
   (MIT)
 </div>
-<div style="float: left; width: 300px">
+<div style="float: left; width: 160px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="130px" href="http://cncl.yale.edu/">
   <a href="http://cncl.yale.edu/">Ilker Yildirim </a>
   (Yale)
