@@ -68,6 +68,8 @@ Papers should be in the latest [NeurIPS format](https://neurips.cc/Conferences/2
 
 ### Organising committee
 
+<br>
+
 <div style="float: left; width: 150px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130px" href="https://danrsm.github.io/">
   <a href="https://danrsm.github.io/">Dan Rosenbaum</a>
