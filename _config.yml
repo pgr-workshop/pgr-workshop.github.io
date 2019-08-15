@@ -20,7 +20,7 @@ description: A NeurIPS 2019 Workshop
 
 # List of links in the navigation bar
 navbar-links:
-  Call for Papers: "callforpapers"
+  # Call for Papers: "callforpapers"
   Schedule: "schedule"
   Contact Us: "contactus"
 
