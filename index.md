@@ -59,25 +59,25 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 ### Organising committee
 
-<div style="float: left; width: 130px">
+<div style="float: left; width: 150px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130" href="https://danrsm.github.io/">
   <a href="https://danrsm.github.io/">Dan Rosenbaum</a>
   (DeepMind)
-</div><div style="float: left; width: 130px">
+</div><div style="float: left; width: 150px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130" href="https://www.martagarnelo.com">
   <a href="https://www.martagarnelo.com">Marta Garnelo</a>
   (DeepMind)
 </div>
-<div style="float: left; width: 130px">
+<div style="float: left; width: 150px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/peter.png?raw=true" width="130">
   Peter Battaglia
   (DeepMind)
-</div><div style="float: left; width: 130px">
+</div><div style="float: left; width: 150px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130" href="https://cbmm.mit.edu/about/people/allen">
   <a href="https://cbmm.mit.edu/about/people/allen">Kelsey Allen </a>
   (MIT)
 </div>
-<div style="float: left; width: 130px">
+<div style="float: left; width: 150px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="130" href="http://cncl.yale.edu/">
   <a href="http://cncl.yale.edu/">Ilker Yildirim </a>
   (Yale)
