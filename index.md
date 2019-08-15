@@ -60,7 +60,6 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 ### Call for papers
 **Submission deadline:** 13 September 2019
-
 **Author notification:** 1 October 2019
 
 We invite authors to submit papers on topics realted to the workshop.
@@ -78,7 +77,7 @@ Papers should be in the latest [NeurIPS format](https://neurips.cc/Conferences/2
   <a href="https://www.martagarnelo.com">Marta Garnelo</a>
   (DeepMind)
 </div>
-<div style="float: left; width: 16opx">
+<div style="float: left; width: 160px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/peter.png?raw=true" width="130px">
   Peter Battaglia
   (DeepMind)
