@@ -62,7 +62,7 @@ thereby inspire future ML approaches that ideally lead to new research direction
 **Submission deadline:** 10 September 2019  
 **Author notification:** 1 October 2019
 
-We invite authors to submit papers on topics realted to the workshop.
+We invite authors to submit papers on topics related to the workshop.
 Papers should be in the latest [NeurIPS format](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles) with a maximum of 4 pages (excluding references and supplementary material). We ask authors to use the supplementary material only for minor details that do not fit in the main paper. The review process will be double blind so papers should be anonymised appropriately.
 
 
