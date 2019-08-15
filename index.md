@@ -57,28 +57,38 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 [Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/) - Technical Fellow and Laboratory Director, Microsoft Research Cambridge (UK). 
 
+
+### Call for papers
+**Submission deadline:** 13 September 2019
+
+**Author notification:** 1 October 2019
+
+We invite authors to submit papers on topics realted to the workshop.
+Papers should be in the latest [NeurIPS format](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles) with a maximum of 4 pages (excluding references and supplementary material). We ask authors to use the supplementary material only for minor details that do not fit in the main paper. The review process will be double blind so papers should be anonymised appropriately.
+
+
 ### Organising committee
 
-<div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130" href="https://danrsm.github.io/">
+<div style="float: left; width: 300px">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130px" href="https://danrsm.github.io/">
   <a href="https://danrsm.github.io/">Dan Rosenbaum</a>
   (DeepMind)
-</div><div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130" href="https://www.martagarnelo.com">
+</div><div style="float: left; width: 300px">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130px" href="https://www.martagarnelo.com">
   <a href="https://www.martagarnelo.com">Marta Garnelo</a>
   (DeepMind)
 </div>
-<div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/peter.png?raw=true" width="130">
+<div style="float: left; width: 300px">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/peter.png?raw=true" width="130px">
   Peter Battaglia
   (DeepMind)
-</div><div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130" href="https://cbmm.mit.edu/about/people/allen">
+</div><div style="float: left; width: 300px">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130px" href="https://cbmm.mit.edu/about/people/allen">
   <a href="https://cbmm.mit.edu/about/people/allen">Kelsey Allen </a>
   (MIT)
 </div>
-<div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="130" href="http://cncl.yale.edu/">
+<div style="float: left; width: 300px">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="130px" href="http://cncl.yale.edu/">
   <a href="http://cncl.yale.edu/">Ilker Yildirim </a>
   (Yale)
 </div>
