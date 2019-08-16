@@ -4,9 +4,6 @@ title: Perception as generative reasoning - Structure, Causality, Probability
 subtitle: NeurIPS 2019 workshop
 ---
 
-<h3 align=center><i></i></h3>
-
-
 ### Overview
 Many perception tasks can be cast as ‘inverse problems’ where the input signal is  the outcome of a causal process and 
 perception is to invert that process. For example in visual object perception, the image is caused by an object and 
