@@ -43,7 +43,7 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 ### Invited speakers
 
-[Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) -  Professor at the Computer Science Department, University of Toronto (Canada) as well as VP and Engineering Fellow at Google. 
+[Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) -  Emeritus Professor at the Computer Science Department, University of Toronto (Canada) as well as VP and Engineering Fellow at Google. 
 
 [Fei-Fei Li](http://vision.stanford.edu/index.html) - Professor at the Computer Science Department at Stanford and Director of the Stanford AI Lab.
 
