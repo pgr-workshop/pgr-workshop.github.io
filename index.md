@@ -84,7 +84,7 @@ Papers should be in the latest [NeurIPS format](https://neurips.cc/Conferences/2
   (DeepMind)
 </div><div style="float: left; width: 150px">
   <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130px" href="https://cbmm.mit.edu/about/people/allen">
-  <a href="https://cbmm.mit.edu/about/people/allen">Kelsey Allen </a>
+  <a href="https://web.mit.edu/www/krallen/">Kelsey Allen </a>
   (MIT)
 </div>
 <div style="float: left; width: 150px">
@@ -93,7 +93,7 @@ Papers should be in the latest [NeurIPS format](https://neurips.cc/Conferences/2
   (Yale)
 </div>
 <!--
-| <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130" href="https://danrsm.github.io/"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130" href="https://www.martagarnelo.com"> |<img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/peter.png?raw=true" width="130"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130" href="https://cbmm.mit.edu/about/people/allen"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="130" href="http://cncl.yale.edu/"> |
+| <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130" href="https://danrsm.github.io/"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130" href="https://www.martagarnelo.com"> |<img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/peter.png?raw=true" width="130"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130" href="http://web.mit.edu/krallen/www/"> | <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="130" href="http://cncl.yale.edu/"> |
 |:-----:|:-----:|:-----:|:------:|:-----:|
 | <a href="https://danrsm.github.io/">Dan Rosenbaum</a> <br>(DeepMind)| <a href="https://www.martagarnelo.com">Marta Garnelo</a> <br>(DeepMind)| Peter Battaglia <br>(DeepMind) | <a href="https://cbmm.mit.edu/about/people/allen"> Kelsey Allen </a> <br>(MIT) | <a href="http://cncl.yale.edu/">Ilker Yildi/emeritus-professors-2/rim </a><br>(Yale)|
 -->
