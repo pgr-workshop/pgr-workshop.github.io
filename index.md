@@ -83,8 +83,8 @@ Papers should be in the latest [NeurIPS format](https://neurips.cc/Conferences/2
   Peter Battaglia
   (DeepMind)
 </div><div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130px" href="https://cbmm.mit.edu/about/people/allen">
-  <a href="https://web.mit.edu/www/krallen/">Kelsey Allen </a>
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130px" href="https://web.mit.edu/krallen/www/">
+  <a href="https://web.mit.edu/krallen/www/">Kelsey Allen </a>
   (MIT)
 </div>
 <div style="float: left; width: 150px">
