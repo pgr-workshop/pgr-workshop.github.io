@@ -59,7 +59,7 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 
 ### Call for papers
-**Submission deadline:** 10 September 2019  
+**Submission deadline:** 13 September 2019  
 **Author notification:** 1 October 2019
 
 We invite authors to submit papers on topics related to the workshop.
