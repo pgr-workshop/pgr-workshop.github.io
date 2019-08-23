@@ -23,7 +23,7 @@ The main questions we want to address in the workshop are:
 Modeling the forward and causal direction of the data vs. learning a task-specific predictor.
 
 1. Generative reasoning: How can learned generative models be used for inference and perception? 
-Search, Amortized inference vs. online inference, stochasticity and gradients, etc.
+Search, Amortised inference vs. online inference, stochasticity and gradients, etc.
 
 1. What are important ideas used in different (less learning-based) fields such as graphics, 
 which are still missing from, and potentially useful for, modern learning methods for perception?
