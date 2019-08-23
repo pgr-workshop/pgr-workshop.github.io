@@ -55,8 +55,6 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 [Niloy Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/) - Professor at the Department of Computer Science, University College London (UK). 
 
-[Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/) - Technical Fellow and Laboratory Director, Microsoft Research Cambridge (UK). 
-
 
 ### Call for papers
 **Submission deadline:** 13 September 2019  
