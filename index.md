@@ -43,10 +43,9 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 ### Invited speakers
 
-[Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) -  Emeritus Professor at the Computer Science Department, University of Toronto (Canada) as well as VP and Engineering Fellow at Google. 
-
+<!--[Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) -  Emeritus Professor at the Computer Science Department, University of Toronto (Canada) as well as VP and Engineering Fellow at Google. 
 [Fei-Fei Li](http://vision.stanford.edu/index.html) - Professor at the Computer Science Department at Stanford and Director of the Stanford AI Lab.
-
+-->
 [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) - Assistant Professor at the University of Toronto and Director of AI at NVIDIA (Canada). 
 
 [Jiajun Wu](https://jiajunwu.com/) - Ph.D. Student at the Department of Electrical Engineering & Computer Science, MIT (USA). 
@@ -55,6 +54,7 @@ thereby inspire future ML approaches that ideally lead to new research direction
 
 [Niloy Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/) - Professor at the Department of Computer Science, University College London (UK). 
 
+[Danilo J. Rezende](https://twitter.com/deepspiker) - Research Scientist, DeepMind (UK).
 
 ### Call for papers
 **Submission deadline:** 13 September 2019  
