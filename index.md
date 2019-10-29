@@ -68,25 +68,25 @@ Papers should be in the latest [NeurIPS format](https://neurips.cc/Conferences/2
 
 
 <div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130px" href="https://danrsm.github.io/">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/danro.png?raw=true" width="130px" href="https://danrsm.github.io/" alt="Dan Rosenbaum">
   <a href="https://danrsm.github.io/">Dan Rosenbaum</a>
   (DeepMind)
 </div><div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130px" href="https://www.martagarnelo.com">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/marta2.png?raw=true" width="130px" href="https://www.martagarnelo.com" alt="Marta Garnelo">
   <a href="https://www.martagarnelo.com">Marta Garnelo</a>
   (DeepMind)
 </div>
 <div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/Pete_headshot.jpg?raw=true" width="130px">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/Pete_headshot.jpg?raw=true" width="130px" alt="Peter Battaglie">
   Peter Battaglia
   (DeepMind)
 </div><div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130px" href="https://web.mit.edu/krallen/www/">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/kelsey.png?raw=true" width="130px" href="https://web.mit.edu/krallen/www/" alt="Kelsey Allen">
   <a href="https://web.mit.edu/krallen/www/">Kelsey Allen </a>
   (MIT)
 </div>
 <div style="float: left; width: 150px">
-  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="130px" href="http://cncl.yale.edu/">
+  <img src="https://github.com/pgr-workshop/pgr-workshop.github.io/blob/master/img/ilker2.png?raw=true" width="130px" href="http://cncl.yale.edu/" alt="Ilker Yildirim">
   <a href="http://cncl.yale.edu/">Ilker Yildirim </a>
   (Yale)
 </div>
