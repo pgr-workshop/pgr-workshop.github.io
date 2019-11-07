@@ -6,7 +6,7 @@ Colin Graber, Alexander Schwing
 <a href="/img/PGR005.pdf" class="image fit"><b>Co-Generation with GANs using AIS based HMC</b></a>  
 Tian Tian Fang, Alexander Schwing
 
-<a href="/img/PGR007.pdf" class="image fit"><b>No Representation without Transformation</b></a>
+<a href="/img/PGR007.pdf" class="image fit"><b>No Representation without Transformation</b></a>  
 Giorgio Giannone, Jonathan Masci, Christian Osendorfer
 
 <a href="/img/PGR008.pdf" class="image fit"><b>Object Abstraction in Visual Model-Based
@@ -23,7 +23,7 @@ Eric Crawford, Joelle Pineau
 Spectra into Neural Networks</b></a>  
 Matthew Dirks, David Poole
 
-<a href="/img/PGR0018.pdf" class="image fit"><b>LAVAE: Disentangling Location and Appearance</b></a> 
+<a href="/img/PGR0018.pdf" class="image fit"><b>LAVAE: Disentangling Location and Appearance</b></a>  
 Andrea Dittadi, Ole Winther
 
 <a href="/img/PGR0020.pdf" class="image fit"><b>Differentiable Mapping Networks: Learning
