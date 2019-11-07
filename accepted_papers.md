@@ -13,8 +13,7 @@ Raymond A Yeh, Yuan-Ting Hu, Alexander Schwing
 <a href="/img/PGR005.pdf" class="image fit"><b>Co-Generation with GANs using AIS based HMC</b></a>  
 Tian Tian Fang, Alexander Schwing
 
-<!--a href="/img/PGR006.pdf" class="image fit"--><b>Object-oriented state editing for HRL</b>
-<!--/a-->
+<a href="/img/PGR006.pdf" class="image fit"><b>Object-oriented state editing for HRL</b></a>
 Victor Bapst, Alvaro Sanchez-Gonzalez, Omar Shams, Kimberly Stachenfeld, Peter Battaglia, Satinder Singh, Jessica B. Hamrick
 
 <a href="/img/PGR007.pdf" class="image fit"><b>No Representation without Transformation</b></a>  
@@ -64,8 +63,7 @@ Peter Karkus, Anelia Angelova, Rico Jonschkowski
 <a href="/img/PGR022.pdf" class="image fit"><b>Learning Optimization Models of Graphs</b></a>  
 Rakshit Trivedi, Jiachen Yang, Hongyuan Zha
 
-<!--a href="/img/PGR023.pdf" class="image fit"--><b>Program Synthesis for Images using Tree-Structured LSTM</b>
-<!--/a-->
+<a href="/img/PGR023.pdf" class="image fit"><b>Program Synthesis for Images using Tree-Structured LSTM</b></a>
 Chenghui Zhou, Chun-Liang Li, Barnabas Poczos
 
 <!--a href="/img/PGR024.pdf" class="image fit"--><b>Causal Neighborhood Analysis for Detection of Adversarial Examples</b>
