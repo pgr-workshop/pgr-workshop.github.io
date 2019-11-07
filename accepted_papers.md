@@ -1,4 +1,4 @@
-### Accepted Papers
+## Accepted Papers
 
 <a href="/img/PGR001.pdf" class="image fit"><b>Graph Structured Prediction Energy Net Algorithms</b></a>  
 Colin Graber, Alexander Schwing
