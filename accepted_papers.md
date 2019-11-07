@@ -27,8 +27,7 @@ Rishi Veerapaneni, John D. Co-Reyes, Michael Chang, Michael Janner, Chelsea Finn
 <!--/a-->
 Jan K Chorowski, Nanxin Chen, Ricard Marxer, Hans J.G.A. Dolfing, Adrian Łańcucki, Guillaume Sanchez, Sameer Khurana, Tanel Alumäe, Antoine Laurent
 
-<!--a href="/img/PGR010.pdf" class="image fit"--><b>Why Aren't All Predictive Coding Networks Generative?</b>
-<!--/a-->
+<a href="/img/PGR010.pdf" class="image fit"><b>Why Aren't All Predictive Coding Networks Generative?</b></a>
 Jeff Orchard, Wei Sun, Neil Liu
 
 <a href="/img/PGR011.pdf" class="image fit"><b>R-SQAIR:Relational Sequential Attend, Infer, Repeat</b></a>  
