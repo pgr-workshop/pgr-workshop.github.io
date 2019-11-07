@@ -3,6 +3,9 @@
 <a href="/img/PGR001.pdf" class="image fit"><b>Graph Structured Prediction Energy Net Algorithms</b></a>  
 Colin Graber, Alexander Schwing
 
+<!--a href="/img/PGR004.pdf" class="image fit"--><b>Chirality Nets: Exploiting Structure in Human Pose Regression</b></a>
+Raymond A Yeh, Yuan-Ting Hu, Alexander Schwing
+
 <a href="/img/PGR005.pdf" class="image fit"><b>Co-Generation with GANs using AIS based HMC</b></a>  
 Tian Tian Fang, Alexander Schwing
 
