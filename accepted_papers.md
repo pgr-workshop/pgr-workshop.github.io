@@ -65,8 +65,7 @@ Rakshit Trivedi, Jiachen Yang, Hongyuan Zha
 <!--/a-->
 Chenghui Zhou, Chun-Liang Li, Barnabas Poczos
 
-<!--a href="/img/PGR024.pdf" class="image fit"--><b>Causal Neighborhood Analysis for Detection of
-Adversarial Examples</b>
+<!--a href="/img/PGR024.pdf" class="image fit"--><b>Causal Neighborhood Analysis for Detection of Adversarial Examples</b>
 <!--/a-->
 Sunny Raj, Sumit Kumar Jha, Susmit Jha
 
