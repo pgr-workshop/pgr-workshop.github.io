@@ -23,8 +23,7 @@ Giorgio Giannone, Jonathan Masci, Christian Osendorfer
 Reinforcement Learning</b></a>  
 Rishi Veerapaneni, John D. Co-Reyes, Michael Chang, Michael Janner, Chelsea Finn, Jiajun Wu, Joshua Tenenbaum, Sergey Levine
 
-<!--a href="/img/PGR009.pdf" class="image fit"--><b>Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data</b>
-<!--/a-->
+<a href="/img/PGR009.pdf" class="image fit"><b>Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data</b></a>
 Jan K Chorowski, Nanxin Chen, Ricard Marxer, Hans J.G.A. Dolfing, Adrian Łańcucki, Guillaume Sanchez, Sameer Khurana, Tanel Alumäe, Antoine Laurent
 
 <a href="/img/PGR010.pdf" class="image fit"><b>Why Aren't All Predictive Coding Networks Generative?</b></a>
