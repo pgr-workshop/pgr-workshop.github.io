@@ -7,7 +7,7 @@ To be announced soon.
 
 [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) - Assistant Professor at the University of Toronto and Director of AI at NVIDIA (Canada). 
 
-[Jiajun Wu](https://jiajunwu.com/) - Ph.D. Student at the Department of Electrical Engineering & Computer Science, MIT (USA). 
+[Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) - Professor at the Department of Brain and Cognitive Sciences, MIT (USA).
 
 ### **Inverse Physics for Robotic Manipulation of Liquids**  
 [Tatiana Lopez-Guevara](https://scholar.google.com/citations?user=Op4nexcAAAAJ&hl=en) (Edinburgh Centre for Robotics -UK)  
