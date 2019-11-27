@@ -48,7 +48,8 @@ thereby inspire future ML approaches that ideally lead to new research direction
 -->
 [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) - Assistant Professor at the University of Toronto and Director of AI at NVIDIA (Canada). 
 
-[Jiajun Wu](https://jiajunwu.com/) - Ph.D. Student at the Department of Electrical Engineering & Computer Science, MIT (USA). 
+<!--[Jiajun Wu](https://jiajunwu.com/) - Ph.D. Student at the Department of Electrical Engineering & Computer Science, MIT (USA).-->
+[Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) - Professor at the Department of Brain and Cognitive Sciences, MIT (USA).
 
 [Tatiana Lopez-Guevara](http://zepolitat.co/) - PhD Student at Edinburgh Centre for Robotics (UK).
 
