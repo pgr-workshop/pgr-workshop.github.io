@@ -1,6 +1,22 @@
 ## Schedule
 
-To be announced soon.
+
+|Time         |  Speaker             |
+|:-----------:|----------------------|
+|08:50 - 09:00|Opening remarks       |
+|09:00 - 09:30|Sanja Fidler          |
+|09:35 - 09:50|Spotlights            |
+|09:50 - 10:30|Break                 |
+|10:30 - 11:05|Josh Tenenbaum        |  
+|11:05 - 11:40|Tatiana Lopez-Guevara |
+|11:40 - 12:00|Spotlights            |        
+|12:00 - 13:30|Lunch                 |       
+|13:30 - 14:05|Niloy Mitra           |
+|14:05 - 14:40|Danilo Rezende        |
+|14:40 - 15:30|Posters               |
+|15:30 - 16:15|Coffee break          |
+|16:15 - 17:15|Panel discussion      |
+|17:15 - 17:30|Closing remarks       |
 
 
 ## Invited talks
