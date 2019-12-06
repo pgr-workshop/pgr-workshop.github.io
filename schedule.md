@@ -6,18 +6,18 @@
 <tr><td nowrap="nowrap">09:35 - 09:40</td><td>Spotlight: Object Abstraction in Visual Model-Based Reinforcement Learning            </td></tr>
 <tr><td nowrap="nowrap">09:40 - 09:45</td><td>Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data </td></tr>
 <tr><td nowrap="nowrap">09:45 - 09:50</td><td>Spotlight: Incorporating Domain Knowledge About XRF Spectra into Neural Networks </td></tr>
-<tr><td>09:50 - 10:30</td><td>Break                 </td></tr>
-<tr><td>10:30 - 11:05</td><td>Josh Tenenbaum        </td></tr>
-<tr><td>11:05 - 11:40</td><td>Tatiana Lopez-Guevara </td></tr>
-<tr><td>11:40 - 11:50</td><td>Spotlight: CvxNets: Learnable Convex Decomposition            </td></tr>
-<tr><td>11:50 - 12:00</td><td>Spotlight: Spatially Invariant, Label-free Object Tracking            </td></tr>       
-<tr><td>12:00 - 13:30</td><td>Lunch                 </td></tr>
-<tr><td>13:30 - 14:05</td><td>Niloy Mitra           </td></tr>
-<tr><td>14:05 - 14:40</td><td>Danilo Rezende        </td></tr>
-<tr><td>14:40 - 15:30</td><td>Posters               </td></tr>
-<tr><td>15:30 - 16:15</td><td>Coffee break          </td></tr>
-<tr><td>16:15 - 17:15</td><td>Panel discussion      </td></tr>
-<tr><td>17:15 - 17:30</td><td>Closing remarks       </td></tr>
+<tr><td nowrap="nowrap">09:50 - 10:30</td><td>Break                 </td></tr>
+<tr><td nowrap="nowrap">10:30 - 11:05</td><td>Josh Tenenbaum        </td></tr>
+<tr><td nowrap="nowrap">11:05 - 11:40</td><td>Tatiana Lopez-Guevara </td></tr>
+<tr><td nowrap="nowrap">11:40 - 11:50</td><td>Spotlight: CvxNets: Learnable Convex Decomposition            </td></tr>
+<tr><td nowrap="nowrap">11:50 - 12:00</td><td>Spotlight: Spatially Invariant, Label-free Object Tracking            </td></tr>       
+<tr><td nowrap="nowrap">12:00 - 13:30</td><td>Lunch                 </td></tr>
+<tr><td nowrap="nowrap">13:30 - 14:05</td><td>Niloy Mitra           </td></tr>
+<tr><td nowrap="nowrap">14:05 - 14:40</td><td>Danilo Rezende        </td></tr>
+<tr><td nowrap="nowrap">14:40 - 15:30</td><td>Posters               </td></tr>
+<tr><td nowrap="nowrap">15:30 - 16:15</td><td>Coffee break          </td></tr>
+<tr><td nowrap="nowrap">16:15 - 17:15</td><td>Panel discussion      </td></tr>
+<tr><td nowrap="nowrap">17:15 - 17:30</td><td>Closing remarks       </td></tr>
 </table>
 
 ## Invited talks
@@ -25,7 +25,7 @@
 [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) - Assistant Professor at the University of Toronto and Director of AI at NVIDIA (Canada). 
 
 
-### Seeing in a world of objects, physics, and agents: Generative models for human perception and human-like machine perception
+### **Seeing in a world of objects, physics, and agents: Generative models for human perception and human-like machine perception**
 [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) - Professor at the Department of Brain and Cognitive Sciences, MIT (USA).
 
 ### **Inverse Physics for Robotic Manipulation of Liquids**  
