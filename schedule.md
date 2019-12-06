@@ -5,11 +5,14 @@
 |-------------|----------------------|
 |08:50 - 09:00|Opening remarks       |
 |09:00 - 09:30|Sanja Fidler          |
-|09:35 - 09:50|Spotlights            |
+|09:35 - 09:40|Spotlight: Entity Abstraction in Visual Model-Based Reinforcement Learning            |
+|09:40 - 09:45|Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data            |
+|09:45 - 09:50|Spotlight: Incorporating Domain Knowledge About XRF Spectra into Neural Networks |
 |09:50 - 10:30|Break                 |
 |10:30 - 11:05|Josh Tenenbaum        |  
 |11:05 - 11:40|Tatiana Lopez-Guevara |
-|11:40 - 12:00|Spotlights            |        
+|11:40 - 11:50|Spotlight: CvxNets: Learnable Convex Decomposition            |        
+|11:50 - 12:00|Spotlight: Spatially Invariant, Label-free Object Tracking            |        
 |12:00 - 13:30|Lunch                 |       
 |13:30 - 14:05|Niloy Mitra           |
 |14:05 - 14:40|Danilo Rezende        |
