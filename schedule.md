@@ -24,6 +24,8 @@
 
 [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) - Assistant Professor at the University of Toronto and Director of AI at NVIDIA (Canada). 
 
+
+### Seeing in a world of objects, physics, and agents: Generative models for human perception and human-like machine perception
 [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) - Professor at the Department of Brain and Cognitive Sciences, MIT (USA).
 
 ### **Inverse Physics for Robotic Manipulation of Liquids**  
