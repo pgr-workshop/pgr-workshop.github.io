@@ -1,8 +1,6 @@
 ## Schedule
 
 
-|Time         |  Speaker             |
-|-------------|----------------------|
 |08:50 - 09:00|Opening remarks       |
 |09:00 - 09:30|Sanja Fidler          |
 |09:35 - 09:40|Spotlight: Entity Abstraction in Visual Model-Based Reinforcement Learning            |
