@@ -1,11 +1,11 @@
 ## Schedule
 
 | Time        |     Event            |
-|:-----------:|----------------------|
+|:-------------------:|--------------------------------------------------------------------------------------------|
 |08:50 - 09:00|Opening remarks       |
 |09:00 - 09:30|Sanja Fidler          |
 |09:35 - 09:40|Spotlight: Object Abstraction in Visual Model-Based Reinforcement Learning            |
-|09:40 - 09:45|Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data            |
+|09:40 - 09:45|Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data    |
 |09:45 - 09:50|Spotlight: Incorporating Domain Knowledge About XRF Spectra into Neural Networks |
 |09:50 - 10:30|Break                 |
 |10:30 - 11:05|Josh Tenenbaum        |  
