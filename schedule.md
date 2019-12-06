@@ -1,25 +1,24 @@
 ## Schedule
 
-| Time        |     Event            |
-|:-------------------:|--------------------------------------------------------------------------------------------|
-|08:50 - 09:00|Opening remarks       |
-|09:00 - 09:30|Sanja Fidler          |
-|09:35 - 09:40|Spotlight: Object Abstraction in Visual Model-Based Reinforcement Learning            |
-|09:40 - 09:45|Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data    |
-|09:45 - 09:50|Spotlight: Incorporating Domain Knowledge About XRF Spectra into Neural Networks |
-|09:50 - 10:30|Break                 |
-|10:30 - 11:05|Josh Tenenbaum        |  
-|11:05 - 11:40|Tatiana Lopez-Guevara |
-|11:40 - 11:50|Spotlight: CvxNets: Learnable Convex Decomposition            |        
-|11:50 - 12:00|Spotlight: Spatially Invariant, Label-free Object Tracking            |        
-|12:00 - 13:30|Lunch                 |       
-|13:30 - 14:05|Niloy Mitra           |
-|14:05 - 14:40|Danilo Rezende        |
-|14:40 - 15:30|Posters               |
-|15:30 - 16:15|Coffee break          |
-|16:15 - 17:15|Panel discussion      |
-|17:15 - 17:30|Closing remarks       |
-
+<table>
+<tr><td>08:50 - 09:00</td><td>Opening remarks       </td></tr>
+<tr><td>09:00 - 09:30</td><td>Sanja Fidler          </td></tr>
+<tr><td>09:35 - 09:40</td><td>Spotlight: Object Abstraction in Visual Model-Based Reinforcement Learning            </td></tr>
+<tr><td>09:40 - 09:45</td><td>Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data </td></tr>
+<tr><td>09:45 - 09:50</td><td>Spotlight: Incorporating Domain Knowledge About XRF Spectra into Neural Networks </td></tr>
+<tr><td>09:50 - 10:30</td><td>Break                 </td></tr>
+<tr><td>10:30 - 11:05</td><td>Josh Tenenbaum        </td></tr>
+<tr><td>11:05 - 11:40</td><td>Tatiana Lopez-Guevara </td></tr>
+<tr><td>11:40 - 11:50</td><td>Spotlight: CvxNets: Learnable Convex Decomposition            </td></tr>
+<tr><td>11:50 - 12:00</td><td>Spotlight: Spatially Invariant, Label-free Object Tracking            </td></tr>       
+<tr><td>12:00 - 13:30</td><td>Lunch                 </td></tr>
+<tr><td>13:30 - 14:05</td><td>Niloy Mitra           </td></tr>
+<tr><td>14:05 - 14:40</td><td>Danilo Rezende        </td></tr>
+<tr><td>14:40 - 15:30</td><td>Posters               </td></tr>
+<tr><td>15:30 - 16:15</td><td>Coffee break          </td></tr>
+<tr><td>16:15 - 17:15</td><td>Panel discussion      </td></tr>
+<tr><td>17:15 - 17:30</td><td>Closing remarks       </td></tr>
+</table>
 
 ## Invited talks
 
