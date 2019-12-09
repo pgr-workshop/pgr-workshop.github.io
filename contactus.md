@@ -1,5 +1,8 @@
 
-## Contact
+---
+layout: page
+title: Contact
+---
 
 ## We want to hear from you!
 
