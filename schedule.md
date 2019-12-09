@@ -1,8 +1,11 @@
-## Schedule
+---
+layout: page
+title: Schedule
+---
 
 <table>
 <tr><td align="center" nowrap="nowrap">08:50 - 09:00</td><td>Opening remarks       </td></tr>
-<tr><td align="center" nowrap="nowrap">09:00 - 09:30</td><td>Sanja Fidler          </td></tr>
+<tr><td align="center" nowrap="nowrap">09:00 - 09:35</td><td>Sanja Fidler          </td></tr>
 <tr><td align="center" nowrap="nowrap">09:35 - 09:40</td><td>Spotlight: Object Abstraction in Visual Model-Based Reinforcement Learning            </td></tr>
 <tr><td align="center" nowrap="nowrap">09:40 - 09:45</td><td>Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data </td></tr>
 <tr><td align="center" nowrap="nowrap">09:45 - 09:50</td><td>Spotlight: Incorporating Domain Knowledge About XRF Spectra into Neural Networks </td></tr>
