@@ -51,4 +51,6 @@ Creating high-quality is expensive as it requires significant manual input to ge
 Niloy received the 2019 Eurographics Outstanding Technical Contributions Award, the 2015 British Computer Society Roger Needham Award, and the 2013 ACM Siggraph Significant New Researcher Award. He leads the Smart Geometry Group at University College London and also Adobe Research London. For more detail, please visit [this page](http://geometry.cs.ucl.ac.uk/index.php).
 
 ---
+### **Non-Supervised Learning And Decision Making**
 [Danilo J. Rezende](https://twitter.com/deepspiker) - Research Scientist, DeepMind (UK).
+
