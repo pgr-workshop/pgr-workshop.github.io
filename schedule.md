@@ -5,13 +5,13 @@ title: Schedule
 
 <table>
 <tr><td align="center" nowrap="nowrap">08:50 - 09:00</td><td>Opening remarks       </td></tr>
-<tr><td align="center" nowrap="nowrap">09:00 - 09:35</td><td>Sanja Fidler          </td></tr>
+<tr><td align="center" nowrap="nowrap">09:00 - 09:35</td><td>Tatiana Lopez-Guevara          </td></tr>
 <tr><td align="center" nowrap="nowrap">09:35 - 09:40</td><td>Spotlight: Object Abstraction in Visual Model-Based Reinforcement Learning            </td></tr>
 <tr><td align="center" nowrap="nowrap">09:40 - 09:45</td><td>Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data </td></tr>
 <tr><td align="center" nowrap="nowrap">09:45 - 09:50</td><td>Spotlight: Incorporating Domain Knowledge About XRF Spectra into Neural Networks </td></tr>
 <tr><td align="center" nowrap="nowrap">09:50 - 10:30</td><td>Break                 </td></tr>
 <tr><td align="center" nowrap="nowrap">10:30 - 11:05</td><td>Josh Tenenbaum        </td></tr>
-<tr><td align="center" nowrap="nowrap">11:05 - 11:40</td><td>Tatiana Lopez-Guevara </td></tr>
+<tr><td align="center" nowrap="nowrap">11:05 - 11:40</td><td>Sanja Fidler </td></tr>
 <tr><td align="center" nowrap="nowrap">11:40 - 11:50</td><td>Spotlight: CvxNets: Learnable Convex Decomposition            </td></tr>
 <tr><td align="center" nowrap="nowrap">11:50 - 12:00</td><td>Spotlight: Spatially Invariant, Label-free Object Tracking            </td></tr>       
 <tr><td align="center" nowrap="nowrap">12:00 - 13:30</td><td>Lunch                 </td></tr>
