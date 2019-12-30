@@ -4,7 +4,9 @@ title: Perception as generative reasoning
 subtitle: <b>Structure, Causality, Probability</b><br><br>NeurIPS 2019 workshop. Friday Dec. 13, Vancouver.
 ---
 
-Submit your questions for the speakers and the panel [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfEWOlTyjzbbbOB7r0665ReqYsBjoPiYFFUnZetz6_mnjq09A/viewform?usp=sf_link)!
+<!--Submit your questions for the speakers and the panel [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfEWOlTyjzbbbOB7r0665ReqYsBjoPiYFFUnZetz6_mnjq09A/viewform?usp=sf_link)!
+-->
+Check out the videos of the workshop sessions in the [schedule](schedule) page, and all the [accepted papers](accepted_papers)!
 
 ### Overview
 Many perception tasks can be cast as ‘inverse problems’ where the input signal is  the outcome of a causal process and 
