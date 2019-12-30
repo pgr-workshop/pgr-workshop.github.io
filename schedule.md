@@ -11,28 +11,30 @@ title: Schedule
 <tr><td align="center" nowrap="nowrap">09:40 - 09:45</td><td>Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data </td></tr>
 <tr><td align="center" nowrap="nowrap">09:45 - 09:50</td><td>Spotlight: Incorporating Domain Knowledge About XRF Spectra into Neural Networks </td></tr>
 <tr><td align="center" nowrap="nowrap">09:50 - 10:30</td><td>Break                 </td></tr>
-
+  <tr><td></td><td></td></tr>
 <tr><td align="center" nowrap="nowrap"></td><td>Session 2 [<a href="https://slideslive.com/38921972/perception-as-generative-reasoning-structure-causality-probability-2">video</a>]</td></tr>
 <tr><td align="center" nowrap="nowrap">10:30 - 11:05</td><td>Josh Tenenbaum        </td></tr>
 <tr><td align="center" nowrap="nowrap">11:05 - 11:40</td><td>Sanja Fidler </td></tr>
 <tr><td align="center" nowrap="nowrap">11:40 - 11:50</td><td>Spotlight: CvxNets: Learnable Convex Decomposition            </td></tr>
 <tr><td align="center" nowrap="nowrap">11:50 - 12:00</td><td>Spotlight: Spatially Invariant, Label-free Object Tracking            </td></tr>       
 <tr><td align="center" nowrap="nowrap">12:00 - 13:30</td><td>Lunch                 </td></tr>
-
+  <tr><td></td><td></td></tr>
 <tr><td align="center" nowrap="nowrap"></td><td>Session 3 [<a href="https://slideslive.com/38921974/perception-as-generative-reasoning-structure-causality-probability-3">video</a>]</td></tr>
 <tr><td align="center" nowrap="nowrap">13:30 - 14:05</td><td>Niloy Mitra           </td></tr>
 <tr><td align="center" nowrap="nowrap">14:05 - 14:40</td><td>Danilo Rezende        </td></tr>
 <tr><td align="center" nowrap="nowrap">14:40 - 15:30</td><td>Posters               </td></tr>
 <tr><td align="center" nowrap="nowrap">15:30 - 16:15</td><td>Coffee break          </td></tr>
-
+  <tr><td></td><td></td></tr>
 <tr><td align="center" nowrap="nowrap"></td><td>Session 4 [<a href="https://slideslive.com/38921975/perception-as-generative-reasoning-structure-causality-probability-4">video</a>]</td></tr>
 <tr><td align="center" nowrap="nowrap">16:15 - 17:15</td><td>Panel discussion      </td></tr>
 <tr><td align="center" nowrap="nowrap">17:15 - 17:30</td><td>Closing remarks       </td></tr>
+  <tr><td></td><td></td></tr>
 </table>
 
 ## Invited talks
 
-### **Seeing in a world of objects, physics, and agents: Generative models for human perception and human-like machine perception**
+### **Seeing in a World of Objects, Physics, and Agents:**
+#### **Generative models for human perception and human-like machine perception**
 [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) - Professor at the Department of Brain and Cognitive Sciences, MIT (USA).
 
 ---
@@ -55,10 +57,11 @@ Creating high-quality is expensive as it requires significant manual input to ge
 Niloy received the 2019 Eurographics Outstanding Technical Contributions Award, the 2015 British Computer Society Roger Needham Award, and the 2013 ACM Siggraph Significant New Researcher Award. He leads the Smart Geometry Group at University College London and also Adobe Research London. For more detail, please visit [this page](http://geometry.cs.ucl.ac.uk/index.php).
 
 ---
-### **Non-Supervised Learning And Decision Making**
+### **Non-Supervised Learning and Decision Making**
 [Danilo J. Rezende](https://twitter.com/deepspiker) - Research Scientist, DeepMind (UK).
 
 ---
+### **A.I. Data Factory for A.I.**
 [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) - Assistant Professor at the University of Toronto and Director of AI at NVIDIA (Canada). 
 
 ---
