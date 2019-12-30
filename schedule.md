@@ -4,21 +4,28 @@ title: Schedule
 ---
 
 <table>
+<tr><td align="center" nowrap="nowrap"></td><td>Session 1 [<a href="https://slideslive.com/38921971/perception-as-generative-reasoning-structure-causality-probability-1">video</a>]</td></tr>
 <tr><td align="center" nowrap="nowrap">08:50 - 09:00</td><td>Opening remarks       </td></tr>
 <tr><td align="center" nowrap="nowrap">09:00 - 09:35</td><td>Tatiana Lopez-Guevara          </td></tr>
 <tr><td align="center" nowrap="nowrap">09:35 - 09:40</td><td>Spotlight: Object Abstraction in Visual Model-Based Reinforcement Learning            </td></tr>
 <tr><td align="center" nowrap="nowrap">09:40 - 09:45</td><td>Spotlight: Unsupervised Neural Segmentation and Clustering for Unit Discovery in Sequential Data </td></tr>
 <tr><td align="center" nowrap="nowrap">09:45 - 09:50</td><td>Spotlight: Incorporating Domain Knowledge About XRF Spectra into Neural Networks </td></tr>
 <tr><td align="center" nowrap="nowrap">09:50 - 10:30</td><td>Break                 </td></tr>
+
+<tr><td align="center" nowrap="nowrap"></td><td>Session 2 [<a href="https://slideslive.com/38921972/perception-as-generative-reasoning-structure-causality-probability-2">video</a>]</td></tr>
 <tr><td align="center" nowrap="nowrap">10:30 - 11:05</td><td>Josh Tenenbaum        </td></tr>
 <tr><td align="center" nowrap="nowrap">11:05 - 11:40</td><td>Sanja Fidler </td></tr>
 <tr><td align="center" nowrap="nowrap">11:40 - 11:50</td><td>Spotlight: CvxNets: Learnable Convex Decomposition            </td></tr>
 <tr><td align="center" nowrap="nowrap">11:50 - 12:00</td><td>Spotlight: Spatially Invariant, Label-free Object Tracking            </td></tr>       
 <tr><td align="center" nowrap="nowrap">12:00 - 13:30</td><td>Lunch                 </td></tr>
+
+<tr><td align="center" nowrap="nowrap"></td><td>Session 3 [<a href="https://slideslive.com/38921974/perception-as-generative-reasoning-structure-causality-probability-3">video</a>]</td></tr>
 <tr><td align="center" nowrap="nowrap">13:30 - 14:05</td><td>Niloy Mitra           </td></tr>
 <tr><td align="center" nowrap="nowrap">14:05 - 14:40</td><td>Danilo Rezende        </td></tr>
 <tr><td align="center" nowrap="nowrap">14:40 - 15:30</td><td>Posters               </td></tr>
 <tr><td align="center" nowrap="nowrap">15:30 - 16:15</td><td>Coffee break          </td></tr>
+
+<tr><td align="center" nowrap="nowrap"></td><td>Session 4 [<a href="https://slideslive.com/38921975/perception-as-generative-reasoning-structure-causality-probability-4">video</a>]</td></tr>
 <tr><td align="center" nowrap="nowrap">16:15 - 17:15</td><td>Panel discussion      </td></tr>
 <tr><td align="center" nowrap="nowrap">17:15 - 17:30</td><td>Closing remarks       </td></tr>
 </table>
